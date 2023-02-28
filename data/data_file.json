@@ -1,0 +1,24 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Scott",
+            "result": "pass"
+        },
+        {
+            "id": 2,
+            "name": "Mark",
+            "result": "fail"
+        }
+    ],
+    "courses":[
+        {
+            "id" : 1,
+            "name": "Test-driven Software Development"
+        },
+        {
+            "id" : 2,
+            "name": "Digital Content Storage and Retrieval"
+        }
+    ]
+}
